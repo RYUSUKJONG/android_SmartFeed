@@ -24,6 +24,7 @@ public class FeedCheck extends AppCompatActivity {
     private Button sendbt1;
     private Button sendbt2;
 
+
     private FirebaseDatabase firebaseDatabase = FirebaseDatabase.getInstance();
     private DatabaseReference databaseReference = firebaseDatabase.getReference();
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501318646632",
+    "project_id": "smartfeed-49534",
+    "storage_bucket": "smartfeed-49534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501318646632:android:1740703412c24518da34dd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501318646632-4a8b2ru7ltrvh7irqlpge015chepiem0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOktMKc_TC_4JmDybnIkBdE4aOQaOfik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501318646632-4a8b2ru7ltrvh7irqlpge015chepiem0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
